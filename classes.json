@@ -1,0 +1,1 @@
+{"Benign": 0, "DrDoS_DNS": 1, "DrDoS_LDAP": 2, "DrDoS_MSSQL": 3, "DrDoS_NTP": 4, "DrDoS_NetBIOS": 5, "DrDoS_SNMP": 6, "DrDoS_UDP": 7, "LDAP": 8, "MSSQL": 9, "NetBIOS": 10, "Portmap": 11, "Syn": 12, "TFTP": 13, "UDP": 14, "UDP-lag": 15, "UDPLag": 16, "WebDDoS": 17}
